@@ -1,0 +1,9 @@
+﻿  OpenCPP.cpp
+C:\Users\Alejandro Mondragon\source\repos\OpenCPP\OpenCPP\OpenCPP.cpp(16,16): warning C4244: 'inicializando': conversión de '_Rep' a 'unsigned int'; posible pérdida de datos
+C:\Users\Alejandro Mondragon\source\repos\OpenCPP\OpenCPP\OpenCPP.cpp(16,16): warning C4244:         with
+C:\Users\Alejandro Mondragon\source\repos\OpenCPP\OpenCPP\OpenCPP.cpp(16,16): warning C4244:         [
+C:\Users\Alejandro Mondragon\source\repos\OpenCPP\OpenCPP\OpenCPP.cpp(16,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Alejandro Mondragon\source\repos\OpenCPP\OpenCPP\OpenCPP.cpp(16,16): warning C4244:         ]
+C:\Users\Alejandro Mondragon\source\repos\OpenCPP\OpenCPP\OpenCPP.cpp(26,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alejandro Mondragon\source\repos\OpenCPP\OpenCPP\OpenCPP.cpp(27,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  OpenCPP.vcxproj -> C:\Users\Alejandro Mondragon\source\repos\OpenCPP\x64\Debug\OpenCPP.exe
